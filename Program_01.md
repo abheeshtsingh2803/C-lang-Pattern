@@ -15,7 +15,7 @@ Arguments: These are the variable names corresponding to the format specifier.
 Format Specifier in C
 In C, a value can be a character type, integer type, float type, and so on. To display these values we have format specifiers used in printf function. These format specifiers start with the percentage symbol ‘%’. Some of the commonly used format specifiers are given below.
 
-```
+```C
 %d - for printing integers
 %f - for printing floating-point numbers
 %c - for printing characters
