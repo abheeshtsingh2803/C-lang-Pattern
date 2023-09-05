@@ -1,4 +1,6 @@
-//Write a C program to compute the perimeter and area of a circle with a given radius.
+## Write a C program to compute the perimeter and area of a circle with a given radius.
+
+```c
 #include <stdio.h> 
 int main() {
    int radius;
@@ -13,3 +15,4 @@ int main() {
 
 return(0);
 }
+```
