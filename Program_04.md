@@ -6,8 +6,8 @@ expressions as a substitute in place of the value it stores.
 ***What is a variable in C?***
 ```
 
-A variable in C is a memory location with some name that helps store some form of data and retrieves it when required. We can store
-different types of data in the variable and reuse the same variable for storing some other data any number of times.
+A variable in C is a memory location with some name that helps store some form of data and retrieves it when required. We can
+store different types of data in the variable and reuse the same variable for storing some other data any number of times.
 
 ```
 They can be viewed as the names given to the memory location so that we can refer to it without having to memorize the memory address. The size of the variable depends upon the data type it stores.
